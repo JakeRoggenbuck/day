@@ -1,8 +1,11 @@
 # Day
 
 ## Backend
+Using Gin-Gonic and Go
 
 ## Frontend
+Using Yew and Rust
+
 ![Day Tracker](https://user-images.githubusercontent.com/35516367/190979519-856b76f0-d1e6-4ebd-a52d-b92f072b824f.png)
 
 #### Color Scheme
