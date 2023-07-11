@@ -1,4 +1,4 @@
-# Day
+# Day - Designs & WIP
 
 ## Backend
 Using Gin-Gonic and Go
