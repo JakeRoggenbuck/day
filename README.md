@@ -1,4 +1,5 @@
 # Day - Designs & WIP
+A daily screen that shows the date and tasks for the day
 
 ## Backend
 Using Gin-Gonic and Go
