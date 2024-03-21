@@ -1,5 +1,5 @@
 # Day
-A simple program to get the current day
+A daily screen that shows the date and tasks for the day
 
 ## Backend
 Using Gin-Gonic and Go
