@@ -1,4 +1,5 @@
 # Day
+A simple program to get the current day
 
 ## Backend
 Using Gin-Gonic and Go
