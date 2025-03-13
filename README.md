@@ -1,4 +1,4 @@
-# Day - Designs & WIP
+# Day
 A daily screen that shows the date and tasks for the day
 
 ## Backend
