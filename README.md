@@ -1,6 +1,8 @@
 # Day
 A daily screen that shows the date and tasks for the day
 
+![Screenshot 2025-03-29 at 13-42-56 Vite React TS](https://github.com/user-attachments/assets/b684dd65-198d-4ca7-9271-24f5cfa0708c)
+
 ## Backend
 Using Gin-Gonic and Go
 
